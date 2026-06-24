@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // Import readline module for user input
 const readline = require("readline");
 
@@ -75,7 +74,6 @@ function askNumber() {
 }
 
 // Start program
-=======
 // Import readline module for user input
 const readline = require("readline");
 
@@ -152,5 +150,4 @@ function askNumber() {
 }
 
 // Start program
->>>>>>> ecb0ab0f7d7f8049724e0e515461659f521ce42e
 askNumber();
